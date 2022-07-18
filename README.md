@@ -1,2 +1,2 @@
 # Estudos
-Armazenamento de programas desenvolvidos até a presente data.
+Armazenamento de programas em Java desenvolvidos até a presente data.
