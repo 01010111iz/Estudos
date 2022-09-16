@@ -17,11 +17,11 @@ class progDec
             {
                 if (x % 2 == 0)
                 {
-                    msg = msg + x + "eh par.\n";
+                    msg = msg + x + "é par.\n";
                 }
                 else
                 {
-                    msg = msg + x + "eh ímpar.\n";
+                    msg = msg + x + "é ímpar.\n";
                 }
                 break;
             }
@@ -29,11 +29,11 @@ class progDec
             {
                 if (x>0)
                 {
-                    msg = msg + x + "eh positivo.\n";                
+                    msg = msg + x + "é positivo.\n";                
                 }
                 else
                 {
-                    msg = msg + x + "eh negativo.\n";
+                    msg = msg + x + "é negativo.\n";
                 }
                 break;
             }
